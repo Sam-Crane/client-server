@@ -20,7 +20,7 @@ rust-http-project
 2. Clone the repository or download the project files.
 3. Navigate to the project directory:
    ```
-   cd rust-http-project
+   cd client-server
    ```
 4. Build the project:
    ```
