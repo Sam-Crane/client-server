@@ -5,7 +5,7 @@ This project implements a simple HTTP client and server using Rust. The client c
 ## Project Structure
 
 ```
-rust-http-project
+client-server
 ├── src
 │   ├── client.rs      # Implementation of the HTTP client
 │   ├── server.rs      # Implementation of the HTTP server
